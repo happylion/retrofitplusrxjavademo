@@ -1,7 +1,4 @@
-package com.example.chenwenchao.retrofitplusrxjavademo.model;
-
-import com.example.chenwenchao.retrofitplusrxjavademo.bean.CityInfoBean;
-import com.example.chenwenchao.retrofitplusrxjavademo.service.CityInfoService;
+package com.example.chenwenchao.retrofitplusrxjavademo.mvp;
 
 import retrofit.GsonConverterFactory;
 import retrofit.Retrofit;

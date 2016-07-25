@@ -1,4 +1,4 @@
-package com.example.chenwenchao.retrofitplusrxjavademo.bean;
+package com.example.chenwenchao.retrofitplusrxjavademo.mvp;
 
 /**
  * Created by chenwenchao on 16/7/20.

@@ -1,10 +1,7 @@
-package com.example.chenwenchao.retrofitplusrxjavademo.service;
+package com.example.chenwenchao.retrofitplusrxjavademo.mvp;
 
-
-import com.example.chenwenchao.retrofitplusrxjavademo.bean.CityInfoBean;
 
 import retrofit.http.GET;
-import retrofit2.http.POST;
 import retrofit2.http.Query;
 import rx.Observable;
 
